@@ -1,0 +1,19 @@
+            h1{
+                color:red
+            }
+        .content{
+            padding: 20px;
+            display: flex;
+            justify-content: space-evenly;
+            background-color:darksalmon;
+        }
+        .header{
+            padding: 20px;
+
+               font-family: fantasy;
+               font-style: italic;
+            background-color:lavender
+        }
+        .footer{
+            background-color: lavender;
+        }
